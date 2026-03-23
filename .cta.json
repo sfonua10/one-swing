@@ -1,0 +1,26 @@
+{
+  "projectName": "one-swing",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {
+    "drizzle": {
+      "database": "postgresql"
+    }
+  },
+  "envVarValues": {},
+  "git": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "better-auth",
+    "store",
+    "tanstack-query",
+    "shadcn",
+    "posthog",
+    "drizzle"
+  ]
+}
